@@ -48,14 +48,14 @@ Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |   25.5.    |     Janick      |     Darkmode-Farben erstellen         |       45min        |
+| 1.B  |  25.5.     |     Janick      |      Darkmode-Schalter erstellen        |      45min         |
+|2.A| 2.6.|Ensar|Filter-Button erstellen|45min|
+|2.B|2.6.|Ensar|Filter-Funktionen erstellen|2 * 45min|
+|3.A|9.6.|Gian-Marco|Bilder einfügen|45min|
+|3.B|9.6.|Gian-Marco|Bild.Animation erstellen.|2 * 45min|
 
 Total: 
-
-✍ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
