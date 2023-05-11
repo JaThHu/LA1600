@@ -59,7 +59,10 @@ Total:
 
 ## 3 Entscheiden
 
-✍ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns dazu entschieden, dass:
+- es einen Dark- und Whitemode geben wird.
+- es einen Filter mit Geschlecht und Farbe gibt.
+- es mehrere Bilder für ein Produkt als Diashow gibt.
 
 ## 4 Realisieren
 
