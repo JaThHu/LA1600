@@ -24,8 +24,9 @@ Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂ möchte ich 🤷‍♂, damit 🤷‍♂ |
-| ...  |                 |      |                                    |
+| 1    |        Muss         |   Qualität   | Als ein Benutzer möchte ich einen Darkmode, damit ich keine Augenschmerzen bekomme.|
+| 2  |       Muss          |   Funktional   |         Als ein Benutzer möchte ich die Produkte filtern, damit ich eine präzisere Auswahl habe.|
+| 3 | Muss | Qualität | Als ein Benutzer möchte ich mehr als ein Bild pro Produkt anschauen, damit ich meine Entscheidung besser treffen kann. |
 
 ✍ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂ möchte ich 🤷‍♂, damit 🤷‍♂*.
 
