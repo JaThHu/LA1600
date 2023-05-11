@@ -38,11 +38,10 @@ Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können 
 | 2.2 | Filter ist aktiv. | Filter löschen. | Es werden wieder alle Produkte anezeigt. |
 | 3.1 | Webseite ist geöffnet. | Mauszeiger auf ein Bild eines Produktes setzen. | Bilder werden als Diashow angezeigt. |
 
-✍ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
 
-✍Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![Use-case_Diagramm](https://github.com/JaThHu/LA1600/assets/111045598/9de6133d-ba9d-41f2-8bdc-c5b645702b2b)
+
 
 ## 2 Planen
 
