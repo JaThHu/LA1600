@@ -42,6 +42,7 @@ Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können 
 
 ![Use-case_Diagramm](https://github.com/JaThHu/LA1600/assets/111045598/9de6133d-ba9d-41f2-8bdc-c5b645702b2b)
 
+![Webseite_Skizze](https://github.com/JaThHu/LA1600/assets/111045598/61daeee6-8f75-49f4-9632-5f84a36c5c3f)
 
 ## 2 Planen
 
