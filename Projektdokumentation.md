@@ -14,9 +14,10 @@
 
 ### 1.1 Ihr Projekt
 
-✍ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren eine Netzseite über Fashion und Mode nur mit HTML und CSS.
 
-✍ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten in diesem Projekt lernen, wie man in der Gruppe eine Netzseite programmiert. Dazu gehört die Kommunikation, Absprache und Ideen. 
+Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können und Wissen über diese Sprachen erweitern. Zusätzlich wollen wir erlernen, wie man ein schönes, übersichtliches Design einer Netzseite erstellt.
 
 ### 1.2 User Stories
 
