@@ -2,8 +2,9 @@
 
 ☝ Alle Text-Stellen, welche mit einem ✍ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-Gruppe: Orange.
-Mitglieder: Mileti, Yildirim, Hurschler.
+Gruppe: Orange
+
+Mitglieder: Mileti, Yildirim, Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
