@@ -28,14 +28,15 @@ Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können 
 | 2  |       Muss          |   Funktional   |         Als ein Benutzer möchte ich die Produkte filtern, damit ich eine präzisere Auswahl habe.|
 | 3 | Muss | Qualität | Als ein Benutzer möchte ich mehr als ein Bild pro Produkt anschauen, damit ich meine Entscheidung besser treffen kann. |
 
-✍ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂ möchte ich 🤷‍♂, damit 🤷‍♂*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |     Webseite ist geöffnet.         |    Darkmode-Schalter clicken.     |        Webseite wechselt die Farben (Darkmode).           |
+| 1.2  |    Darkmode ist an.          |    Darkmode-Schalter clicken.     |   Webseite wechselt die Farben zurück (Whitemode).                |
+| 2.1 | Webseite ist geöffnet. | Auf das Filter-Symbol und dann auf Farbe schwarz clicken. | nur noch Produkte mit der Farbe schwarz. |
+| 2.2 | Filter ist aktiv. | Filter löschen. | Es werden wieder alle Produkte anezeigt. |
+| 3.1 | Webseite ist geöffnet. | Mauszeiger auf ein Bild eines Produktes setzen. | Bilder werden als Diashow angezeigt. |
 
 ✍ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
