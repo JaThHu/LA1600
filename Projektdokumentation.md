@@ -55,6 +55,7 @@ Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können 
 |3.B|8.6.|Gian-Marco|Bild.Animation erstellen.|2 * 45min|
 |4.A|1.6.|Janick|"nach oben"-Button erstellen mit Funktion|2 * 45min|
 |5.A|1.6.|Janick|Link zu anderen HTML Seiten|2 * 45min|
+|6.A|1.6.|Janick|Filter optimieren|3 * 45min|
 
 Total: 
 
@@ -77,6 +78,7 @@ Wir haben uns dazu entschieden, dass:
 |3.B|08.06.23|Gian-Marco|90min|90min|
 |4.A|01.06.23|Janick|90min|90min|
 |5.A|01.06.23|Janick|90min|90min|
+|6.A|01.06.23|Janick|120min|120min|
 
 
 ## 5 Kontrollieren
