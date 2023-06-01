@@ -78,7 +78,6 @@ Wir haben uns dazu entschieden, dass:
 |4.A|01.06.23|Janick|90min|90min|
 |5.A|01.06.23|Janick|90min|90min|
 
-✍ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
