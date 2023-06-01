@@ -1,2 +1,2 @@
-Präsentation: -durch button zu einem bestimmten Punkt der Netzseite gelangen. 
-              -smooth scrolling
+Präsentation: - durch button zu einem bestimmten Punkt der Netzseite gelangen. 
+              - smooth scrolling
