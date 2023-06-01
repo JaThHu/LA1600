@@ -7,9 +7,8 @@ Mitglieder: Mileti, Yildirim, Hurschler
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in einem Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   25.05.23    | 0.1.0   | Die Netzseite ist jetzt in einem ansehbaren Zustand. Die funktionen stehen und die Seite läuft. |
+
 
 ## 1 Informieren
 
@@ -50,10 +49,10 @@ Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können 
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |   25.5.    |     Janick      |     Darkmode-Farben erstellen         |       45min        |
 | 1.B  |  25.5.     |     Janick      |      Darkmode-Schalter erstellen        |      45min         |
-|2.A| 2.6.|Ensar|Filter-Button erstellen|45min|
-|2.B|2.6.|Ensar|Filter-Funktionen erstellen|2 * 45min|
-|3.A|9.6.|Gian-Marco|Bilder einfügen|45min|
-|3.B|9.6.|Gian-Marco|Bild.Animation erstellen.|2 * 45min|
+|2.A| 1.6.|Ensar|Filter-Button erstellen|45min|
+|2.B|1.6.|Ensar|Filter-Funktionen erstellen|2 * 45min|
+|3.A|8.6.|Gian-Marco|Bilder einfügen|45min|
+|3.B|8.6.|Gian-Marco|Bild.Animation erstellen.|2 * 45min|
 
 Total: 
 
@@ -68,8 +67,12 @@ Wir haben uns dazu entschieden, dass:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |   25.05.23    |     Janick      |       45min        |          45min         |
+| 1.B  |   25.05.23    |     Janick      |       45min        |         45min          |
+|2.A|01.06.23|Ensar|45min|45min|
+|2.B|01.06.23|Ensar|90min|90min|
+|3.A|08.06.23|Gian-Marco|45min|45min|
+|3.B|08.06.23|Gian-Marco|90min|90min|
 
 ✍ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
